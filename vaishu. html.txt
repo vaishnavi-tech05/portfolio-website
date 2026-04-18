@@ -8,13 +8,13 @@
 <body>
 
     <header>
-        <h1>Hi, I'm Vaishnavi 👋</h1>
-        <p>Java Learner | Web Developer | Fresher</p>
+        <h1>Hi, I'm Vaishnavi Saravanan</h1>
+        <p>Python Learner | Web Developer | Fresher</p>
     </header>
 
     <section class="about">
         <h2>About Me</h2>
-        <p>I am learning Java and Web Development. I love creating websites.</p>
+        <p>I'm Vaishnavi Saravanan, a passionate beginner programmer with strong interest in web development and python programming.</p>
     </section>
 
     <section class="projects">
