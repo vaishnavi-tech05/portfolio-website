@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vaishnavi Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Hi, I'm Vaishnavi 👋</h1>
+        <p>Java Learner | Web Developer | Fresher</p>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>I am learning Java and Web Development. I love creating websites.</p>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>Registration Form with Backend</li>
+            <li>Portfolio Website</li>
+            <li>Login Page Design</li>
+        </ul>
+    </section>
+
+    <button onclick="changeMode()">Dark / Light Mode</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
