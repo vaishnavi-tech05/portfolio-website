@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Vaishnavi Portfolio</title>
+    <title>Vaishnavi Saravanan Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
